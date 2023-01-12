@@ -11,14 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c35bdeee-e9aa-40bb-95c8-a17fa17dcffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/12-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Marela/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Marela/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
@@ -53,7 +48,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673528764694</updated>
-      <workItem from="1673528769558" duration="980000" />
+      <workItem from="1673528769558" duration="1317000" />
+      <workItem from="1673530109095" duration="19000" />
+      <workItem from="1673530146284" duration="24000" />
+      <workItem from="1673530171029" duration="823000" />
     </task>
     <servers />
   </component>
@@ -70,11 +68,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="460" y="118" key="FileChooserDialogImpl" timestamp="1673530164007">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="118" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1673530164007" />
     <state x="181" y="0" key="SettingsEditor" timestamp="1673529352570">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="181" y="0" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1673529352570" />
+    <state x="469" y="76" key="git4idea.branch.GitSmartOperationDialog" timestamp="1673530202575">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="469" y="76" key="git4idea.branch.GitSmartOperationDialog/0.0.1360.728@0.0.1360.728" timestamp="1673530202575" />
   </component>
 </project>
